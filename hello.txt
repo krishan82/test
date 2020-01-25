@@ -1,4 +1,7 @@
 Hello
 This is my first git file.
 
-2 + 2 = 
+2 + 2 = 4
+
+This is editted part
+=========================
