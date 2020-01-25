@@ -2,6 +2,9 @@ Hello
 This is my first git file.
 
 2 + 2 = 4
+<<<<<<< HEAD
 
 This is editted part
 =========================
+=======
+>>>>>>> 7b6331f2d0b4f81b58f1e8f9bfe49a516ec41e4f
